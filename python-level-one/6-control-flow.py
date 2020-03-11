@@ -33,7 +33,7 @@ while i < 5:
 # range
 for i in range(10):
     print(i)
-    
+     
 # list comprehension
 nums = [1,2,3,4]
 # out = []
